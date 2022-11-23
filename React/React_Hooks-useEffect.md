@@ -1,11 +1,19 @@
 # useEffect - 2022/11/22
 
+# 목차
+
+- ## [사용이유](#사용이유)<br>
+- ## [사용법](#사용법)
+- ## [useEffect의 기본형태](useEffect의-기본형태)
+- ## [useEffect의 사용예제](useEffect의-사용예제)
+<hr>
+
 ## 사용이유
 
 - 굳이 여러번 랜더링될 필요 없을 때
   (Ex : map api)
 
-## 사용법
+## useEffect의 기본형태
 
 ```js
 import { useEffect } from "react"
@@ -34,7 +42,7 @@ import { useEffect } from "react"
 
 이런식으로 대괄호안에 내가 실행시키고 싶은 함수를 넣어 지정을 해줄 수 있다.
 
-useEffect로 예제를 한개 만들어보면
+## useEffect의 사용예제
 
 ```js
 import { useState, useEffect } from "react";
