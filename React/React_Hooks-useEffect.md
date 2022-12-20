@@ -3,9 +3,8 @@
 # 목차
 
 - ## [사용이유](#사용이유)<br>
-- ## [사용법](#사용법)
 - ## [useEffect의 기본형태](useEffect의-기본형태)
-- ## [useEffect의 사용예제](useEffect의-사용예제)
+- ## [useEffect의 사용예제](#useEffect의-사용예제)
 <hr>
 
 ## 사용이유
