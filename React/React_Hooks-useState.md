@@ -1,10 +1,8 @@
 # useRef - 2022/11/24 (까먹고 이제올림)
 
-- ## [useState란?](#useState란?)<br>
-- ## [useState 사용법](useState의-사용법)
-- ## [useState 사용예제](useState의-사용예제)
+- ### [useState 사용법](useState의-사용법)
+- ### [useState 사용예제](useState의-사용예제)
 
-## useState란?
 
 ## useState 사용법
 
