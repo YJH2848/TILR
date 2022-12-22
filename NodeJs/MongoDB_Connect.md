@@ -24,3 +24,7 @@ mongoose
   .then(() => console.log("MongoDB Connected..."))
   .catch(err => console.log(err));
 ```
+
+을 넣어주면 <b>MongoDB</b>와 연결을 할수가 있다
+지금 내가 주석 처리해놓은 것들이 예전에는 먹혔는데 요즘은 기본값으로
+주어졌다고 해서 주석 처리를 해주었다.
